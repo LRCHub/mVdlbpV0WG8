@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "CYAN",
+  "base_artist": "フレデリック",
+  "createdAt": "2025-12-20T13:24:13.965605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cyan",
+      "artist": "Kindness",
+      "has_synced": false,
+      "path": "select/01_Cyan_Kindness.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cyan",
+      "artist": "Ellie Goulding",
+      "has_synced": true,
+      "path": "select/02_Cyan_Ellie_Goulding.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cyan (Radio Edit)",
+      "artist": "Arno Cost",
+      "has_synced": false,
+      "path": "select/03_Cyan_(Radio_Edit)_Arno_Cost.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pantone Cyan",
+      "artist": "WHY?",
+      "has_synced": false,
+      "path": "select/04_Pantone_Cyan_WHY.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Seishun wa Non-Stop! (Cyan ver.) (TV anime \"SHOW BY ROCK!!\" OP)",
+      "artist": "プラズマジカGt&Vo.シアン(CV:稲川英里)",
+      "has_synced": false,
+      "path": "select/05_Seishun_wa_Non-Stop!_(Cyan_ver.)_(TV_anime__SHOW_BY_ROCK!!__OP)_プラズマジカGt&Vo.シアン(CV_稲川英里).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Little Lights (with Cyan)",
+      "artist": "Syd Matters",
+      "has_synced": false,
+      "path": "select/06_Little_Lights_(with_Cyan)_Syd_Matters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cyan Night Dreams",
+      "artist": "Parasite Inc.",
+      "has_synced": true,
+      "path": "select/07_Cyan_Night_Dreams_Parasite_Inc..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Glooms of Cyan",
+      "artist": "Fractal Gates",
+      "has_synced": false,
+      "path": "select/08_Glooms_of_Cyan_Fractal_Gates.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Cyan",
+      "artist": "Arno Cost",
+      "has_synced": false,
+      "path": "select/09_Cyan_Arno_Cost.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sounds of Cyan and Magenta",
+      "artist": "Codeseven",
+      "has_synced": false,
+      "path": "select/10_Sounds_of_Cyan_and_Magenta_Codeseven.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yellow, Magenta, Cyan and Black (Theme from YMCK)",
+      "artist": "YMCK",
+      "has_synced": true,
+      "path": "select/11_Yellow,_Magenta,_Cyan_and_Black_(Theme_from_YMCK)_YMCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Baby (cyan Sleep) - Cyan Sleep",
+      "artist": "Tarrus Riley",
+      "has_synced": true,
+      "path": "select/12_My_Baby_(cyan_Sleep)_-_Cyan_Sleep_Tarrus_Riley.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "My Baby (Cyan Sleep)",
+      "artist": "Tarrus Riley",
+      "has_synced": true,
+      "path": "select/13_My_Baby_(Cyan_Sleep)_Tarrus_Riley.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CYAN",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_CYAN_フレデリック.txt"
+    }
+  ]
+}
